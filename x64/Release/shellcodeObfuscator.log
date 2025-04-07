@@ -1,0 +1,15 @@
+﻿  InstructionData.cpp
+  ZYDIS_STATIC_DEFINE was renamed to ZYDIS_STATIC_BUILD.
+C:\Users\a2879\source\repos\shellcodeObfuscator\InstructionData.cpp(434,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\a2879\source\repos\shellcodeObfuscator\InstructionData.cpp(444,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\a2879\source\repos\shellcodeObfuscator\InstructionData.cpp(457,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\a2879\source\repos\shellcodeObfuscator\InstructionData.cpp(471,16): warning C4267: “初始化”: 从“size_t”转换到“char”，可能丢失数据
+C:\Users\a2879\source\repos\shellcodeObfuscator\InstructionData.cpp(551,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\a2879\source\repos\shellcodeObfuscator\InstructionData.cpp(589,64): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+C:\Users\a2879\source\repos\shellcodeObfuscator\InstructionData.cpp(590,65): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+  正在生成代码
+  1 of 1036 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  shellcodeObfuscator.vcxproj -> C:\Users\a2879\source\repos\shellCodeMaker\x64\Release\shellcodeObfuscator.exe
